@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth0124&label=Profile%20views&color=0e75b6&style=flat" alt="parth0124" /> </p>
-
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, ReactJS and Backend development**
