@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJS and Backend development**
+- 🌱 I’m currently learning **ReactJS and Backend development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Parth0124](https://github.com/Parth0124)
+- 👨‍💻 All of my projects are available at: [https://github.com/Parth0124](https://github.com/Parth0124)
 
 - 💬 Ask me about **Html, CSS, Bootstrap, Tailwind CSS, Javascript and jQuery**
 
-- 📫 How to reach me **abhangparth@gmail.com**
+- 📫 How to reach me: **abhangparth@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Parth0124](https://github.com/Parth0124)
+- 📄 Know about my experiences: [https://github.com/Parth0124](https://github.com/Parth0124)
 
 - ⚡ Fun fact **I love reading books**
 
