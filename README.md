@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parth0124](https://github.com/Parth0124)
 
-- 💬 Ask me about **Html, CSS, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **Html, CSS, Bootstrap, Tailwind CSS, Javascript and jQuery**
 
 - 📫 How to reach me **abhangparth@gmail.com**
 
