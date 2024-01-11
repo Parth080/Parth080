@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/ve43TyDQ3B4me7d22z/200w.webp?cid=ecf05e47l0f0ev0esnu3abvdvlmxhbjubae9u7wz0jbr0uxg&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
 <h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
 
