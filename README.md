@@ -1,12 +1,4 @@
-
-
-<h1 align="center"›
-‹a href="https://git.io/typing-svg">
-<img src="[ttps://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+-U;+I'm+Pedro+Muniz!;" />
-</a>
-</h1>
-
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
 
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
 
