@@ -33,4 +33,6 @@
 
 <p> <img src="![Parth0124's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth0124&theme=vue-dark&hide_border=true)"/> </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parth0124&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
 <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"/>
