@@ -1,5 +1,10 @@
 <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
-<h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
+
+<img align-"right" src-"https://visitor-badge.laobi.icu/badge?page_id-salesp07.salesp07" /›
+<h1 align-"center"›
+‹a href-"https://git.io/typing-svg">
+</a>
+</h1>
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
