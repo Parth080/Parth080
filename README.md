@@ -1,4 +1,4 @@
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
+
 
 <h1 align="center"›
 ‹a href="https://git.io/typing-svg">
