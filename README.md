@@ -31,6 +31,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=parth0124&show_icons=true&locale=en&layout=compact" alt="parth0124" style="color: black;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth0124&" alt="parth0124" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth0124" alt="parth0124" /></p>
 
 <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"/>
