@@ -31,6 +31,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=parth0124&show_icons=true&locale=en&layout=compact" alt="parth0124" style="color: black;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth0124" alt="parth0124" /></p>
+<p> <img src="https://camo.githubusercontent.com/674206f276fd00779eebc082cbd6f0169aded9b5bb3105179c2ba553a55f6efb/68747470733a2f2f692e696d6775722e636f6d2f625572736a6c702e706e67"/></p>
 
 <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"/>
