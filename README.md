@@ -1,5 +1,7 @@
 <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
 
+<h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
+
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
@@ -33,6 +35,6 @@
 
 <p> <img src="![Parth0124's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth0124&theme=vue-dark&hide_border=true)"/> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Parth0124&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth0124&" alt="parth0124" /></p>
 
 <img src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"/>
