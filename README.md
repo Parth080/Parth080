@@ -1,11 +1,13 @@
 <img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
 
-<img align-"right" src-"https://visitor-badge.laobi.icu/badge?page_id-salesp07.salesp07" /›
-<h1 align-"center"›
-‹a href-"https://git.io/typing-svg">
-<img src-"https://readme-typing-svg.herokuapp.com/?font-Righteous&size-35&center-true&vCenter-true&width-500&height-70&duration-400081ines-Hi+There!+®;+I'm+Parth Abhang!;*/>
+<h1 align="center"›
+‹a href="https://git.io/typing-svg">
+<img src="[ttps://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+-U;+I'm+Pedro+Muniz!;" />
 </a>
 </h1>
+
+
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
