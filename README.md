@@ -3,6 +3,7 @@
 <img align-"right" src-"https://visitor-badge.laobi.icu/badge?page_id-salesp07.salesp07" /›
 <h1 align-"center"›
 ‹a href-"https://git.io/typing-svg">
+<img src-"https://readme-typing-svg.herokuapp.com/?font-Righteous&size-35&center-true&vCenter-true&width-500&height-70&duration-400081ines-Hi+There!+®;+I'm+Parth Abhang!;*/>
 </a>
 </h1>
 <h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also i am proficient with OOP in c++</h3>
