@@ -15,11 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS and Database**
+- 🌱 I’m currently learning NodeJS and Database
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Parth0124](https://github.com/Parth0124)
 
-- 💬 Ask me about **Front End Develoment and MySQL**
+- 💬 Ask me about Front End Develoment and MySQL
 
 - 📫 How to reach me: **abhangparth@gmail.com**
 
