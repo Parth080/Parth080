@@ -79,6 +79,10 @@
   </a>
 </p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth0124&show_icons=true&locale=en&layout=compact" alt="parth0124" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth0124&show_icons=true&locale=en" alt="parth0124" /></p>
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth0124&" alt="parth0124" /></p>
