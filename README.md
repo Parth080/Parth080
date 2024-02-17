@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences: [https://github.com/Parth0124](https://github.com/Parth0124)
 
-- ⚡ Fun fact **I'm a caffeine dependent life form**
+- ⚡ Fun fact: **I'm a caffeine dependent life form**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
