@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Parth0124](https://github.com/Parth0124)
 
-- 💬 Ask me about **Front End Develoment and MySQL**
+- 💬 Ask me about **FrontEnd Develoment and MySQL**
 
 - 📫 How to reach me: **abhangparth@gmail.com**
 
