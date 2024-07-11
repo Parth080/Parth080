@@ -10,15 +10,15 @@
 
 <h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
 
-<h3 align="center">I am a sophomore at IIIT Dharwad. I am currently mastering Full Stack WebDev and DSA. Also I am proficient with OOP in c++</h3>
+<h3 align="center">I am a pre-final year at IIIT Dharwad. Iam an experienced MERN stack developer with multiple projects and efficient in DSA and OOP</h3>
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
 
-- 🌱 I’m currently working on **BackEnd Development and Database**
+- 🌱 I’m excited to delve into the relm of  **Web3 and Blockchain development**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Parth0124](https://github.com/Parth0124)
 
-- 💬 Ask me about **FrontEnd Develoment and MySQL**
+- 💬 Ask me about **MERN stack Development and MySQL**
 
 - 📫 How to reach me: **abhangparth@gmail.com**
 
