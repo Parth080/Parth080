@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<img src="[https://4kwallpapers.com/images/walls/thumbs_3t/13640.png](https://res.cloudinary.com/dl1pxnjmu/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1736975611/DALL_E_2025-01-16_02.42.10_-_A_detailed_cyberpunk-themed_coding_environment_with_a_glowing_computer_screen_showing_a_3D_visualization_of_code_surrounded_by_futuristic_tech_gadget_am5t06.webp)"/>
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13640.png"/>
 
 <h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
 
