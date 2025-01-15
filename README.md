@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<img src="https://res.cloudinary.com/dl1pxnjmu/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1736976316/DALL_E_2025-01-16_02.48.19_-_A_stylish_modern_desk_setup_for_coding_featuring_a_laptop_with_code_displayed_on_the_screen_a_cup_of_coffee_releasing_steam_a_notebook_with_a_pen_hfvnyy.webp"/>
+<img src="https://res.cloudinary.com/dl1pxnjmu/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1736975610/DALL_E_2025-01-16_02.41.52_-_A_vibrant_minimalistic_illustration_of_a_computer_screen_showing_complex_code_in_dark_mode_surrounded_by_coffee_mugs_books_and_tech_gadgets_on_a_d_s38nvw.webp"/>
 
 <h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
 
