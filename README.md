@@ -48,6 +48,7 @@
 
 # 📊 GitHub Stats:
 ![Parth0124's Stats](https://github-readme-stats.vercel.app/api?username=Parth0124&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+<br/>
 ![Parth0124's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth0124&theme=outrun&hide_border=false)
 ![Parth0124's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0124&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
