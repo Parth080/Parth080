@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 🙏🏻, I'm Parth Abhang</h1>
 
-<h3 align="center">I am a pre-final year at IIIT Dharwad. Iam an experienced MERN stack developer with multiple projects and efficient in DSA and OOP</h3>
+<h3 align="center">I am a pre-final year student at IIIT Dharwad with extensive experience as a MERN stack developer, demonstrated through multiple impactful projects. Proficient in Data Structures, Algorithms, and Object-Oriented Programming, I also excel in Machine Learning, Natural Language Processing, Deep Learning, and Generative AI.</h3>
 
 <p align="left"> <a href="https://twitter.com/parth010504" target="blank"><img src="https://img.shields.io/twitter/follow/parth010504?logo=twitter&style=for-the-badge" alt="parth010504" /></a> </p>
 
