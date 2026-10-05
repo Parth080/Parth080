@@ -12,9 +12,6 @@ Currently an AI Engineer at [Flam](https://www.flamapp.com).
 - **Applied ML:** RAG, NLP, and computer vision, plus speech and generative media in production
 - **ML infrastructure and product engineering:** containerized pipelines, observability, and full-stack delivery
 
-### Selected work
-
-<!-- Add selected projects here -->
 
 ### Stack
 
