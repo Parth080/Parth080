@@ -65,10 +65,6 @@ I'm an **AI engineer in Bangalore** who builds **multimodal AI end-to-end**: mod
   </tr>
 </table>
 
-## 🔭 Selected work
-
-<!-- Add selected projects here -->
-
 ## 🧬 What I build
 
 <table>
