@@ -1,32 +1,30 @@
-# Parth Abhang
+## Hi, I'm Parth 👋
 
-**AI Engineer · Generative AI, Speech, Computer Vision and NLP**
+AI Engineer at Flam. I take frontier speech, vision and generative models and make them fast, cheap and reliable enough for millions of people to use.
 
-I build production AI at the frontier of speech, vision and language. My work takes state-of-the-art research and turns it into systems that serve millions of users, running faster, cheaper and more reliably than what came before.
+[Email](mailto:abhangparth@gmail.com) · [X](https://twitter.com/Parth010504)
 
-I own the full lifecycle, from research and training to optimization, deployment and scale, across voice cloning, text-to-speech, lip-sync, document intelligence, image and video generation, and autonomous agents. Currently an AI Engineer at Flam.
+### Now
 
-### Impact
+- 🔭 Building real-time voice cloning, TTS and lip-sync at Flam — made voice cloning 5x faster at half the GPU cost
+- 🌍 Teaching production TTS to speak 60+ languages, one number, date and currency at a time
+- 🤖 Wiring autonomous agents into AI avatars that call 8+ multimodal tools in real time
+- 📊 Stress-testing LLMs across 20+ Indian and global languages before they ship
+- 🌱 Going deep on agent evaluation, model compression and making big models run small
 
-- Re-engineered a production voice-cloning pipeline for 5x faster inference, 2x better quality metrics and half the GPU cost
-- Built the multilingual text-normalization layer behind a production TTS model, spanning 60+ languages
-- Shipped 50+ models and AI agents into production
-- Led multilingual LLM benchmarking across 20+ languages, shaping model selection for 15+ releases
-- Engineered real-time voice infrastructure sustaining 100+ concurrent sessions at 99.5% uptime
-- Raised lip-sync fidelity by 35% while cutting temporal jitter by 40%
-
-### Expertise
-
-Generative AI · Speech and Voice AI · Computer Vision · LLMs, RAG and Autonomous Agents · MLOps and Cloud Infrastructure · Full-Stack Engineering
-
-### Stack
-
-Python, C++, Go, TypeScript · PyTorch, TensorFlow, Hugging Face, LangChain, ComfyUI · Docker, AWS, GCP · React, Next.js, Node.js · PostgreSQL, MongoDB
+Previously: OpenLynks (multi-agent supply-chain AI on AWS Bedrock) · Supervaisor.ai (real-time person re-identification under 200 ms) · The Squirrel (RAG chatbots and a Next.js crowdfunding platform)
 
 ### Selected work
 
 <!-- Add selected projects here -->
 
-### Contact
+### Stack
 
-abhangparth@gmail.com
+**Daily** Python · PyTorch · Hugging Face · ComfyUI · FastAPI · Docker · AWS  
+**Also** Go · TypeScript · Next.js · React · Node.js · LangChain · Whisper · GCP · PostgreSQL · MongoDB · Pinecone
+
+---
+
+100+ repositories since 2023 · mostly Python, TypeScript and JavaScript
+
+Building something ambitious in voice, vision or generative AI? [Reach me →](mailto:abhangparth@gmail.com)
