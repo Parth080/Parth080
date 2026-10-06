@@ -26,45 +26,6 @@ I'm an **AI engineer in Bangalore** who builds **multimodal AI end-to-end**: mod
 
 > *I don't stop at the demo. I ship it.*
 
-## 🏆 Highlights
-
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <h3>🎙️ 5x</h3>
-      faster voice-cloning inference<br/>
-      <sub>50% lower GPU cost · 2x better evals</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🌍 60+</h3>
-      languages in production TTS<br/>
-      <sub>text normalization · 30% fewer TTS errors</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🚀 50+</h3>
-      model & agent deployments<br/>
-      <sub>real-time tool calling across 8+ tools</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <h3>📡 99.5%</h3>
-      uptime on live voice backends<br/>
-      <sub>100+ concurrent sessions</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🎬 35%</h3>
-      better lip-sync fidelity<br/>
-      <sub>40% less jitter</sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🎨 60%</h3>
-      shorter content turnaround<br/>
-      <sub>12+ pipelines · 20+ ComfyUI workflows</sub>
-    </td>
-  </tr>
-</table>
-
 ## 🧬 What I build
 
 <table>
